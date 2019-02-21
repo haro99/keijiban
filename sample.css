@@ -1,5 +1,15 @@
-div.top{color: blue;}
-li{
-    color: #000000;
-    background-color: #E0FFFF
+h1{
+    color: red;
+    text-align: center;
+}
+
+div.top-comments{
+    display: inline-block;
+}
+div.comments{
+    background: pink;
+    margin: 10px;
+}
+p.message{
+    margin: 5px;
 }
